@@ -1,0 +1,42 @@
+D:\MVC Core\Online_Store\Online_Store_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.deps.json
+D:\MVC Core\Online_Store\Online_Store_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.runtimeconfig.json
+D:\MVC Core\Online_Store\Online_Store_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Store\Online_Store_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.AssemblyInfo.cs
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\refint\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.genruntimeconfig.cache
+D:\MVC Core\Online_Store\Online_Store_Domain_API\obj\Debug\net6.0\ref\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.deps.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.runtimeconfig.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.AssemblyInfo.cs
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\refint\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.genruntimeconfig.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\ref\Online_Shopping_Domain_API.dll
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.deps.json
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.runtimeconfig.json
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\bin\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.csproj.AssemblyReference.cache
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.AssemblyInfoInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.AssemblyInfo.cs
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.csproj.CoreCompileInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\refint\Online_Shopping_Domain_API.dll
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\Online_Shopping_Domain_API.genruntimeconfig.cache
+D:\Backup\Online_Shopping\Online_Shopping_Domain_API\obj\Debug\net6.0\ref\Online_Shopping_Domain_API.dll
