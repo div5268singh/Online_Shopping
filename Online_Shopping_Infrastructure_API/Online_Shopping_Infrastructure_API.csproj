@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Online_Shopping_Domain_API\Online_Shopping_Domain_API.csproj" />
+    <ProjectReference Include="..\Online_Shopping_Model\Online_Shopping_Model.csproj" />
+  </ItemGroup>
+
+</Project>
