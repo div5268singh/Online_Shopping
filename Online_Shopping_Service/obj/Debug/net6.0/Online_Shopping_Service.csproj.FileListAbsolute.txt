@@ -1,0 +1,42 @@
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Service.deps.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Service.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Service.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Infrastructure_API.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Model.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Infrastructure_API.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Model.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.AssemblyInfo.cs
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.csproj.CopyComplete
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\refint\Online_Shopping_Service.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\ref\Online_Shopping_Service.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Service.deps.json
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Service.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Service.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Domain_API.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Infrastructure_API.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Model.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Utility.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Infrastructure_API.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Model.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Service\bin\Debug\net6.0\Online_Shopping_Domain_API.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.csproj.AssemblyReference.cache
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.AssemblyInfoInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.AssemblyInfo.cs
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.csproj.CoreCompileInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.csproj.CopyComplete
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\refint\Online_Shopping_Service.dll
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\Online_Shopping_Service.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Service\obj\Debug\net6.0\ref\Online_Shopping_Service.dll

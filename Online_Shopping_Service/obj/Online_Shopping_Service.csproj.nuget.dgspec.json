@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Backup\\Online_Shopping\\Online_Shopping_Service\\Online_Shopping_Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Backup\\Online_Shopping\\Online_Shopping_Domain_API\\Online_Shopping_Domain_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backup\\Online_Shopping\\Online_Shopping_Domain_API\\Online_Shopping_Domain_API.csproj",
+        "projectName": "Online_Shopping_Domain_API",
+        "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Domain_API\\Online_Shopping_Domain_API.csproj",
+        "packagesPath": "C:\\Users\\Gabbar\\.nuget\\packages\\",
+        "outputPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Domain_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backup\\Online_Shopping\\Online_Shopping_Infrastructure_API\\Online_Shopping_Infrastructure_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backup\\Online_Shopping\\Online_Shopping_Infrastructure_API\\Online_Shopping_Infrastructure_API.csproj",
+        "projectName": "Online_Shopping_Infrastructure_API",
+        "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Infrastructure_API\\Online_Shopping_Infrastructure_API.csproj",
+        "packagesPath": "C:\\Users\\Gabbar\\.nuget\\packages\\",
+        "outputPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Infrastructure_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Backup\\Online_Shopping\\Online_Shopping_Domain_API\\Online_Shopping_Domain_API.csproj": {
+                "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Domain_API\\Online_Shopping_Domain_API.csproj"
+              },
+              "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj": {
+                "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj",
+        "projectName": "Online_Shopping_Model",
+        "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj",
+        "packagesPath": "C:\\Users\\Gabbar\\.nuget\\packages\\",
+        "outputPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backup\\Online_Shopping\\Online_Shopping_Service\\Online_Shopping_Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backup\\Online_Shopping\\Online_Shopping_Service\\Online_Shopping_Service.csproj",
+        "projectName": "Online_Shopping_Service",
+        "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Service\\Online_Shopping_Service.csproj",
+        "packagesPath": "C:\\Users\\Gabbar\\.nuget\\packages\\",
+        "outputPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Backup\\Online_Shopping\\Online_Shopping_Infrastructure_API\\Online_Shopping_Infrastructure_API.csproj": {
+                "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Infrastructure_API\\Online_Shopping_Infrastructure_API.csproj"
+              },
+              "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj": {
+                "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj"
+              },
+              "D:\\Backup\\Online_Shopping\\Online_Shopping_Utility\\Online_Shopping_Utility.csproj": {
+                "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Utility\\Online_Shopping_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backup\\Online_Shopping\\Online_Shopping_Utility\\Online_Shopping_Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backup\\Online_Shopping\\Online_Shopping_Utility\\Online_Shopping_Utility.csproj",
+        "projectName": "Online_Shopping_Utility",
+        "projectPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Utility\\Online_Shopping_Utility.csproj",
+        "packagesPath": "C:\\Users\\Gabbar\\.nuget\\packages\\",
+        "outputPath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
