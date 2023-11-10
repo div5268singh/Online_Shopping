@@ -1,0 +1,12 @@
+D:\MVC Core\Online_Store\Online_Store_Model\bin\Debug\net6.0\Online_Store_Model.deps.json
+D:\MVC Core\Online_Store\Online_Store_Model\bin\Debug\net6.0\Online_Store_Model.dll
+D:\MVC Core\Online_Store\Online_Store_Model\bin\Debug\net6.0\Online_Store_Model.pdb
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\Online_Store_Model.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\Online_Store_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\Online_Store_Model.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\Online_Store_Model.AssemblyInfo.cs
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\Online_Store_Model.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\Online_Store_Model.dll
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\refint\Online_Store_Model.dll
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\Online_Store_Model.pdb
+D:\MVC Core\Online_Store\Online_Store_Model\obj\Debug\net6.0\ref\Online_Store_Model.dll

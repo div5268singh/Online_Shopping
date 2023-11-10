@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+NqVnOmyaKKmjvHpjuS6baVvoU3zuqd5Qkk77i5zMWa8PfFQtR0MTCN5DX9++1SO+1aqak27OTdpkG9BNiJFA==",
+  "success": true,
+  "projectFilePath": "D:\\Backup\\Online_Shopping\\Online_Shopping_Model\\Online_Shopping_Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabbar\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Gabbar\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Gabbar\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
