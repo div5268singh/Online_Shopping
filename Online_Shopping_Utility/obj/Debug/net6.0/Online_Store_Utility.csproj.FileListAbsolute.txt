@@ -1,0 +1,14 @@
+D:\MVC Core\Online_Store\Online_Store_Utility\bin\Debug\net6.0\Online_Store_Utility.deps.json
+D:\MVC Core\Online_Store\Online_Store_Utility\bin\Debug\net6.0\Online_Store_Utility.dll
+D:\MVC Core\Online_Store\Online_Store_Utility\bin\Debug\net6.0\Online_Store_Utility.pdb
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.Resource.UserResource.resources
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.csproj.GenerateResource.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.AssemblyInfo.cs
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.dll
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\refint\Online_Store_Utility.dll
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Store_Utility.pdb
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\ref\Online_Store_Utility.dll

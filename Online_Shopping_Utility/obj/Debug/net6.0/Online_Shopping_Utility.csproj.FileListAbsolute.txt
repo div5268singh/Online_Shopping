@@ -1,0 +1,42 @@
+D:\MVC Core\Online_Store\Online_Store_Utility\bin\Debug\net6.0\Online_Shopping_Utility.deps.json
+D:\MVC Core\Online_Store\Online_Store_Utility\bin\Debug\net6.0\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Store\Online_Store_Utility\bin\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.Resource.UserResource.resources
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.GenerateResource.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.AssemblyInfo.cs
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\refint\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\MVC Core\Online_Store\Online_Store_Utility\obj\Debug\net6.0\ref\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\bin\Debug\net6.0\Online_Shopping_Utility.deps.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\bin\Debug\net6.0\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\bin\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.Resource.UserResource.resources
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.GenerateResource.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.AssemblyInfo.cs
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\refint\Online_Shopping_Utility.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\ref\Online_Shopping_Utility.dll
+D:\Backup\Online_Shopping\Online_Shopping_Utility\bin\Debug\net6.0\Online_Shopping_Utility.deps.json
+D:\Backup\Online_Shopping\Online_Shopping_Utility\bin\Debug\net6.0\Online_Shopping_Utility.dll
+D:\Backup\Online_Shopping\Online_Shopping_Utility\bin\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.AssemblyReference.cache
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.Resource.UserResource.resources
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.GenerateResource.cache
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.AssemblyInfoInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.AssemblyInfo.cs
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.csproj.CoreCompileInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.dll
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\refint\Online_Shopping_Utility.dll
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\Online_Shopping_Utility.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Utility\obj\Debug\net6.0\ref\Online_Shopping_Utility.dll
