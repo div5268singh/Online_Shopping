@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Online_Shopping_Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Online_Shopping_Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\DataTable\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTable\\jquery.dataTables.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\DataTable\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTable\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\DataTable\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTable\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\DataTable\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTable\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Customers\\3ccce279-d3b6-4f8e-88c4-ac7a4111238f_C2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Customers\\3ccce279-d3b6-4f8e-88c4-ac7a4111238f_C2.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Customers\\a19762dc-5d8a-4d6b-a58d-e052b931c20c_C15.jpg",
+      "PackagePath": "staticwebassets\\Images\\Customers\\a19762dc-5d8a-4d6b-a58d-e052b931c20c_C15.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Customers\\a4a9f093-4e36-4854-8afd-2587771d460c_C9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Customers\\a4a9f093-4e36-4854-8afd-2587771d460c_C9.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Customers\\b6efa653-8922-413c-acbb-d6a45920e39d_C11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Customers\\b6efa653-8922-413c-acbb-d6a45920e39d_C11.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Customers\\c08ff0e1-3889-4cd3-88c5-8be0360a4789_C11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Customers\\c08ff0e1-3889-4cd3-88c5-8be0360a4789_C11.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Customers\\d11083bc-efed-46e8-8a51-235fe79a660a_C12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Customers\\d11083bc-efed-46e8-8a51-235fe79a660a_C12.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Customers\\d6ff42e6-2cc2-4fd3-8391-7674730dfd67_C11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Customers\\d6ff42e6-2cc2-4fd3-8391-7674730dfd67_C11.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\00386d38-d109-4c70-b858-dbf805db3ac0_Dell1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\00386d38-d109-4c70-b858-dbf805db3ac0_Dell1.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\0c0dbf09-f9b0-4738-83e4-abaa5dbbe814_c1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\0c0dbf09-f9b0-4738-83e4-abaa5dbbe814_c1.png"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\0f223746-6e97-4cf0-b851-ee2323fb5843_c1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\0f223746-6e97-4cf0-b851-ee2323fb5843_c1.png"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\568f8bbc-7e00-4134-aaba-dd125a9fa8a9_iphone7.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\568f8bbc-7e00-4134-aaba-dd125a9fa8a9_iphone7.png"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\6127c40f-7bcd-4dfc-881b-5a4b1ea501b0_c1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\6127c40f-7bcd-4dfc-881b-5a4b1ea501b0_c1.png"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\808e3ed8-44aa-4da2-b3ee-ffa28b87cfb1_titan2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\808e3ed8-44aa-4da2-b3ee-ffa28b87cfb1_titan2.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\8f6d2b47-614e-4388-872a-9dfa0d2f21c2_basket ball its.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\8f6d2b47-614e-4388-872a-9dfa0d2f21c2_basket ball its.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\b5b15c4f-5111-4a75-908a-63d15d08f8ef_iphone7.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\b5b15c4f-5111-4a75-908a-63d15d08f8ef_iphone7.png"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\c23343e5-b938-429e-92cb-9141475214fc_c1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\c23343e5-b938-429e-92cb-9141475214fc_c1.png"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\ca9280b4-0411-4fef-ab84-f30fd72e94d3_bowl1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ca9280b4-0411-4fef-ab84-f30fd72e94d3_bowl1.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\ef94742d-92eb-40c5-962e-d911acf9b1d0_c1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ef94742d-92eb-40c5-962e-d911acf9b1d0_c1.png"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\Images\\Products\\f8b9caaa-7aee-45c4-a6ae-c8061d60f158_pd2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\f8b9caaa-7aee-45c4-a6ae-c8061d60f158_pd2.jpg"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\css\\ProductPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\ProductPageStyle.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\js\\Category_File.js",
+      "PackagePath": "staticwebassets\\js\\Category_File.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\js\\Customer_File.js",
+      "PackagePath": "staticwebassets\\js\\Customer_File.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\js\\Product_File.js",
+      "PackagePath": "staticwebassets\\js\\Product_File.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Backup\\Online_Shopping\\Online_Shopping_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Online_Shopping_Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Online_Shopping_Web.props",
+      "PackagePath": "build\\Online_Shopping_Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Online_Shopping_Web.props",
+      "PackagePath": "buildMultiTargeting\\Online_Shopping_Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Online_Shopping_Web.props",
+      "PackagePath": "buildTransitive\\Online_Shopping_Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

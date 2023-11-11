@@ -1,0 +1,115 @@
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\appsettings.Development.json
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\appsettings.json
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\Online_Shopping_Web.staticwebassets.runtime.json
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\Online_Shopping_Web.exe
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\Online_Shopping_Web.deps.json
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\Online_Shopping_Web.runtimeconfig.json
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\Online_Shopping_Web.dll
+D:\MVC Core\Online_Store\Online_Store_Web\bin\Debug\net6.0\Online_Shopping_Web.pdb
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.AssemblyInfo.cs
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.RazorAssemblyInfo.cache
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.RazorAssemblyInfo.cs
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\staticwebassets\msbuild.Online_Shopping_Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Online_Shopping_Web.props
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online_Shopping_Web.props
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online_Shopping_Web.props
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\scopedcss\bundle\Online_Shopping_Web.styles.css
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\scopedcss\projectbundle\Online_Shopping_Web.bundle.scp.css
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.dll
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\refint\Online_Shopping_Web.dll
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.pdb
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\Online_Shopping_Web.genruntimeconfig.cache
+D:\MVC Core\Online_Store\Online_Store_Web\obj\Debug\net6.0\ref\Online_Shopping_Web.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\appsettings.Development.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\appsettings.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.staticwebassets.runtime.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.exe
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.deps.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.runtimeconfig.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Humanizer.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Model.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web_Service.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Model.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web_Service.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.AssemblyReference.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.AssemblyInfoInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.AssemblyInfo.cs
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.CoreCompileInputs.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.RazorAssemblyInfo.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.RazorAssemblyInfo.cs
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.Online_Shopping_Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Online_Shopping_Web.props
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online_Shopping_Web.props
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online_Shopping_Web.props
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\scopedcss\bundle\Online_Shopping_Web.styles.css
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\scopedcss\projectbundle\Online_Shopping_Web.bundle.scp.css
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.CopyComplete
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\refint\Online_Shopping_Web.dll
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.pdb
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.genruntimeconfig.cache
+D:\MVC Core\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\ref\Online_Shopping_Web.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\appsettings.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.staticwebassets.runtime.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.exe
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.deps.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.runtimeconfig.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Humanizer.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Model.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web_Service.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Model.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Web\bin\Debug\net6.0\Online_Shopping_Web_Service.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.AssemblyReference.cache
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.AssemblyInfoInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.AssemblyInfo.cs
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.CoreCompileInputs.cache
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.RazorAssemblyInfo.cache
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.RazorAssemblyInfo.cs
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.Online_Shopping_Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Online_Shopping_Web.props
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online_Shopping_Web.props
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online_Shopping_Web.props
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\scopedcss\bundle\Online_Shopping_Web.styles.css
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\scopedcss\projectbundle\Online_Shopping_Web.bundle.scp.css
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.csproj.CopyComplete
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\refint\Online_Shopping_Web.dll
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.pdb
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\Online_Shopping_Web.genruntimeconfig.cache
+D:\Backup\Online_Shopping\Online_Shopping_Web\obj\Debug\net6.0\ref\Online_Shopping_Web.dll
