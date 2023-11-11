@@ -1,0 +1,68 @@
+﻿@model Online_Shopping_Model.ViewModel.CategoryViewModel
+
+
+
+<div>
+    <button class="btn btn-primary m-2" id="btnAddCategory">Add Category</button>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <table class="table table-bordered" id="dataTableData">
+                <thead class="thead-light">
+                    <tr class="text-center">
+                        <th>CategoryId</th>
+                        <th>CategoryName</th>
+                        <th>CategoryType</th>
+                        <th colspan="3">Action</th>
+                    </tr>
+                </thead>
+                @*<tbody class="text-center" id="table_data"></tbody>*@
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade modal" id="CategoryModel">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="text-info modal-title">Add Category</h1>
+                <button class="close btn-danger" data-bs-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="myForm">
+                    <div class="form-group">
+                        <label>Category Id</label>
+                        <input type="text" class="form-control" name="CategoryId" id="CategoryId" disabled="disabled" />
+                    </div>
+
+                    <div class="form-group">
+                        <label>Category Name</label>
+                        <input type="text" placeholder="Enter Category Name" class="form-control" name="CategoryName" id="CategoryName" required="required" autocomplete="off" />
+                    </div>
+
+                    <div class="form-group">
+                        <label>Category Type</label>
+                        <input type="text" placeholder="Enter Category Name" class="form-control" name="CategoryType" id="CategoryType" required="required" autocomplete="off" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                @*<button class="btn btn-success" onclick="AddProduct();" id="AddProduct">Save</button>
+                <button class="btn btn-warning" onclick="UpdateProduct();" style="display:none" id="btnUpdate">Update</button>*@
+                <button class="btn btn-success" id="AddCategory">Save</button>
+                <button class="btn btn-warning" id="UpdateCategory" style="display:none">Update</button>
+                <button class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="https://unpkg.com/sweetalert2@7.8.2/dist/sweetalert2.all.js"></script>
+<script src="~/js/category_file.js"></script>

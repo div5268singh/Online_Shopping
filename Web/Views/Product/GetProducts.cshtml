@@ -1,0 +1,25 @@
+﻿@model List<Online_Shopping_Model.ViewModel.ProductViewModel>
+
+<div class="row">
+	@foreach (var item in Model)
+	{
+		<div class="col-3">
+			<div class="card mb-3">
+				<div class="card-header" style="background-color:#b5ebe2;">
+					<h4>
+						<label style="font-size:23px; color:steelblue;">@item.ProductName</label>
+					</h4>
+				</div>
+				<img src="/Images/Products/@item.Photo" alt="Card Image" class="card-img-tops" style="height:250px;">
+				<div class="card-header" style="background-color:#b5ebe2;color:white">
+					<div class="d-flex justify-content-between align-items-center">
+						<div class="btn-group">
+							<label style="font-size:20px; color:#a51313"><b>Price : @item.Price</b></label>
+						</div>
+						<a asp-action="ProductDetail" asp-controller="Product" class="btn btn-sm btn-warning" asp-route-ProductId="@item.ProductId">Details</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	}
+</div>
