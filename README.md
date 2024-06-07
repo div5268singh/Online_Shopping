@@ -1,2 +1,4 @@
-# test
-this is for test how git hub work
+# Online Shopping 
+This project will created for Personal Learning 
+Languages used in that: .NET, JavaScript
+DataBase: SQL Server
